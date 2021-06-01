@@ -1,0 +1,25 @@
+
+.div1{
+    background: green;
+    width: 20%;
+    height: 700px;
+    color: white;
+}
+.div2{
+    background: greenyellow;
+    width: 950px;
+   height: 700px;
+   color: white;
+}
+.div3{
+    background: green;
+    width: 20%;
+    height: 700px;
+    color: white;
+}
+body{
+    padding: 0;
+}
+main{
+    display: flex;
+}
